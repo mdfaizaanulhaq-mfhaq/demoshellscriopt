@@ -1,1 +1,8 @@
 this is a file remote ton located;
+
+
+
+
+
+
+im change the word for ssh for server  
